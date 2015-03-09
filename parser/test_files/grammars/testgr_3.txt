@@ -1,0 +1,4 @@
+x
+A -> C d
+B -> C e
+C -> A | B | f
